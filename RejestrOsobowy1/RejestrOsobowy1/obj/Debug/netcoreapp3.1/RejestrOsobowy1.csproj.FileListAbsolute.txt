@@ -1,0 +1,13 @@
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\bin\Debug\netcoreapp3.1\RejestrOsobowy1.exe
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\bin\Debug\netcoreapp3.1\RejestrOsobowy1.deps.json
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\bin\Debug\netcoreapp3.1\RejestrOsobowy1.runtimeconfig.json
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\bin\Debug\netcoreapp3.1\RejestrOsobowy1.runtimeconfig.dev.json
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\bin\Debug\netcoreapp3.1\RejestrOsobowy1.dll
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\bin\Debug\netcoreapp3.1\RejestrOsobowy1.pdb
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\obj\Debug\netcoreapp3.1\RejestrOsobowy1.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\obj\Debug\netcoreapp3.1\RejestrOsobowy1.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\obj\Debug\netcoreapp3.1\RejestrOsobowy1.AssemblyInfoInputs.cache
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\obj\Debug\netcoreapp3.1\RejestrOsobowy1.AssemblyInfo.cs
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\obj\Debug\netcoreapp3.1\RejestrOsobowy1.dll
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\obj\Debug\netcoreapp3.1\RejestrOsobowy1.pdb
+C:\Users\Bartek\source\repos\RejestrOsobowy1\RejestrOsobowy1\obj\Debug\netcoreapp3.1\RejestrOsobowy1.genruntimeconfig.cache
